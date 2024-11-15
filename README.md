@@ -52,7 +52,6 @@ To run this project locally, follow these steps:
    ```bash
    ./performance_report
 
-
 ---
 
 ## Notes
