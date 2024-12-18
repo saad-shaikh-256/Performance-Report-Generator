@@ -1,6 +1,6 @@
 # Performance Report Generator
 
-![Performance Report Generator](https://github.com/saad-shaikh-256/Simple-Login-Page/blob/main/Materials/Image/Cover.jpg)
+![Performance Report Generator](https://github.com/saad-shaikh-256/Performance-Report-Generator/blob/main/Cover/Cover.jpg)
 
 ## Overview
 
