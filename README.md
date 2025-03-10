@@ -19,12 +19,6 @@ This C program generates a **Student Performance Report** based on their marks i
 - **User-Friendly Output**: Presents results in a clean, organized format with proper dividers for better readability.
 - **Error Handling**: Alerts the user for invalid input entries.
 
-## Live Demo
-
-You can try out the Performance Report Generator [here](https://replit.com/@ljmcatheboys/Performance-Report-Generator).
-
-Watch the demo on YouTube: [Performance Report Generator Demo](https://youtu.be/3dFe26US8jM?si=GBYwcx0oSr-2Ze7z).
-
 ## Technologies Used
 
 - **C Programming Language**
